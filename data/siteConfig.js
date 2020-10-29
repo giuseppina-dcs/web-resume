@@ -1,4 +1,6 @@
 module.exports = {
+  siteUrl: "https://giuseppina-dcs.github.io/web-resume",
+  pathPrefix: '/',
   siteTitle: 'Giuseppina De Cesare',
   authorName: 'Giuseppina De Cesare',
   authorAvatar: '/images/giu.jpg',
@@ -65,5 +67,6 @@ module.exports = {
       label: 'Interests',
       url: '/interests',
     } */
-  ]
+  ],
+  googleAnalyticsId: 'UA-000000000-1',
 }

@@ -1,5 +1,4 @@
 const config = require("./data/siteConfig");
-
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
